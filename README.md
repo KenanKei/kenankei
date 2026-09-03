@@ -2,7 +2,7 @@
 <h3 align="center">Un passionné de nouvelles technologies et d'informatiques</h3>
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Passionn%C3%A9+de+nouvelles+technologies;Cr%C3%A9ateur+de+jeux+vid%C3%A9o;D%C3%A9veloppeur+sur+Godot;Apprenti+artiste+3+sur+Blender" />
 
-<table border="0">
+<table style="border: none;">
   <tr>
     <td>
       <p>- 🔭 Je travail actuellement sur un jeux vidéos 3D sur le logiciel godot engine, jeux qui se nomme **Don't look away**</p>
