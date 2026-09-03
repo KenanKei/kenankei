@@ -10,7 +10,7 @@
 
 - 📫 Adresse où me contacter **88kenanvosges88@gmail.com**
 
-<img src="LIEN_VERS_TA_MASCOTTE.gif" width="300">
+<img src="MASCOTTE.gif" width="300">
 
 <h3 align="left">Réseaux profesionnels:</h3>
 <p align="left">
