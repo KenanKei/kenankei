@@ -3,23 +3,17 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Passionn%C3%A9+de+nouvelles+technologies;Cr%C3%A9ateur+de+jeux+vid%C3%A9o;D%C3%A9veloppeur+sur+Godot;Apprenti+artiste+3+sur+Blender" />
 
 <table style="border-collapse: collapse;">
-  <td>
-    <tr>
+  <tr>
+    <td>
       - 🔭 Je travail actuellement sur un jeux vidéos 3D sur le logiciel godot engine, jeux qui se nomme **Don't look away**
-    </tr>
-    <tr>
       - 🌱 J'apprend actuellement à me spécialiser dans l' **informatique en 3ème année de but**
-    </tr>
-    <tr>
       - 📝 J'apprend en autodidacte à modéliser en 3D et à animé sur blender ainsi qu'à programmer et créer sur godot engine
-    </tr>
-    <tr>
       - 📫 Adresse où me contacter **88kenanvosges88@gmail.com**
-    </tr>
-  </td>
-  <td>
-    <img src="MASCOTTEsf.gif" width="300">
-  </td>
+    </td>
+    <td>
+      <img src="MASCOTTEsf.gif" width="300">
+    </td>
+  </tr>
 </table>
 
 <h3 align="left">Réseaux profesionnels:</h3>
