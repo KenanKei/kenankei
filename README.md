@@ -2,7 +2,7 @@
 <h3 align="center">Un passionné de nouvelles technologies et d'informatiques</h3>
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Passionn%C3%A9+de+nouvelles+technologies;Cr%C3%A9ateur+de+jeux+vid%C3%A9o;D%C3%A9veloppeur+sur+Godot;Apprenti+artiste+3+sur+Blender" />
 
-<img src="MASCOTTEsf.gif" width="300" align="right" vspace="40">
+<img src="MASCOTTEsf.gif" width="300" align="right" vspace="20">
 
 <p>- 🔭 Je travail actuellement sur un jeux vidéos 3D sur le logiciel godot engine, jeux qui se nomme <strong>Don't look away</strong></p>
 <p>- 🌱 J'apprend actuellement à me spécialiser dans l' <strong>informatique en 3ème année de but</strong></p>
