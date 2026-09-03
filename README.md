@@ -5,10 +5,10 @@
 <img src="MASCOTTEsf.gif" width="300" align="right">
 
 <ul>
-  <li>🔭 Je travail actuellement sur un jeux vidéos 3D sur le logiciel godot engine, jeux qui se nomme <strong>Don't look away</strong></li>
-  <li>🌱 J'apprend actuellement à me spécialiser dans l' <strong>informatique en 3ème année de but</strong></li>
-  <li>📝 J'apprend en autodidacte à modéliser en 3D et à animé sur blender ainsi qu'à programmer et créer sur godot engine</li>
-  <li>📫 Adresse où me contacter <strong>88kenanvosges88@gmail.com</strong></li>
+  <li>🔭 Je travaille actuellement sur un jeu vidéo 3D avec le logiciel Godot Engine, qui se nomme <strong>Don't Look Away</strong></li>
+  <li>🌱 J'apprends actuellement à me spécialiser en <strong>informatique web, en 3ème année de BUT</strong></li>
+  <li>📝 J'apprends en autodidacte à modéliser en 3D et à animer sur Blender, ainsi qu'à programmer et à créer sur Godot Engine</li>
+  <li>📫 Adresse pour me contacter <strong>88kenanvosges88@gmail.com</strong></li>
 </ul>
 
 <h3 align="left">Réseaux profesionnels:</h3>
