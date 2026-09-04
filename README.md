@@ -2,31 +2,7 @@
 <h3 align="center">Un passionné de nouvelles technologies et d'informatiques</h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=2500&pause=1000&color=00BFFF&center=true&vCenter=true&width=1000&lines=Passionn%C3%A9+de+jeux+vid%C3%A9o+d%27action+et+de+combat;J%27adore+imaginer+des+histoires+et+des+univers;Grand+consommateur+d%27anim%C3%A9s+d%27action;Groupe+de+musique+pr%C3%A9f%C3%A9r%C3%A9+%3A+Ice+Nine+Kills;Rock+ain%27t+Dead" />
-</p>
-
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=2500&pause=1000&color=FFFFFF&center=true&vCenter=true&width=1000&lines=I+am+Atomic;Kam%C3%A9+Ham%C3%A9+Ha+%21;Plus+Ultra+%21;Combattre+avec+panache;Darling;Je+veux+devenir+un+h%C3%A9ros+%21;Les+gens+ne+sont+que+des+outils.;La+magie+%3F+Je+pr%C3%A9f%C3%A8re+r%C3%A9gler+%C3%A7a+avec+mes+muscles;Est-ce+que+vous+voulez+un+chou+%C3%A0+la+cr%C3%A8me+%3F;Le+brouillard+finit+toujours+par+se+dissiper+devant+la+volont%C3%A9;Je+ne+suis+ni+pour%2C+ni+contre%2C+bien+au+contraire" />
-</p>
-
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=2500&pause=1000&color=FF4444&center=true&vCenter=true&width=1000&lines=Nous+sommes+Shadow+Garden...;Nous+nous+dissimulons+dans+l%27obscurit%C3%A9...;Et+nous+pourchassons+les+ombres+%21;Tout+va+bien+se+passer+%21;Et+vous+savez+pourquoi+%3F;Parce+que+la+cavalerie+est+l%C3%A0+%21;Je+te+sauverai...;Peu+importe+le+nombre+de+fois...;O%C3%B9+je+devrai+mourir+%21;Personne+n%27est+parfait.;Je+ne+suis+personne...;Donc+je+suis+parfait+%21;S%27il+arrive+malheur+%C3%A0+mes+choux+%C3%A0+la+cr%C3%A8me...;Je+ne+vous+le+pardonnerai+pas.;S%27il+n%27y+a+pas+de+h%C3%A9ros+dans+ce+monde...;Je+serai+un+h%C3%A9ros+%21%21" />
-</p>
-
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=2500&pause=1000&color=FF4444&center=true&vCenter=true&width=1000&lines=Les+flammes+incandescentes+...;Sont+le+souffle+de+l%27%C3%A2me.;La+fum%C3%A9e+noire+...;Lib%C3%A8re+les+%C3%A2mes.;Poussi%C3%A8re%2C+tu+redeviens+poussi%C3%A8re...;Et+ton+%C3%A2me+d%C3%A9livr%C3%A9e...;Retournera+dans+les+flammes+ardentes.;Latum." />
-</p>
-
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=2500&pause=1000&color=00BFFF&center=true&vCenter=true&width=1000&lines=Dans+la+vie...;Y%27a+pas+de+grands...;Y%27a+pas+de+petits.;La+bonne+longueur+pour+les+jambes...;C%27est+quand+les+pieds+touchent+par+terre.;Si+j%27ai+l%27occasion...;J%27aimerais+mieux+mourir+de+mon+vivant+%21;La+vie+mettra+des+pierres+sur+ta+route...;%C3%80+toi+de+d%C3%A9cider...;Si+tu+en+feras+un+mur...;Ou+un+pont." />
-</p>
-
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=2500&pause=1000&color=FF4444&center=true&vCenter=true&width=1000&lines=La+victoire+est+tout+ce+qui+compte+dans+ce+monde.;Les+m%C3%A9thodes+importent+peu.;Il+para%C3%AEt+qu%27on+appelle+ces+oiseaux+des+Pihis.;Ils+ne+poss%C3%A8dent+qu%27une+seule+aile.;M%C3%A2les+et+femelles...;Ne+peuvent+voler+qu%27en+se+serrant...;L%27un+contre+l%27autre." />
-</p>
-
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=2500&pause=1000&color=FFFFFF&center=true&vCenter=true&width=1000&lines=Le+moment+le+plus+facile...;De+sombrer+dans+le+d%C3%A9sespoir...;C%27est+le+moment+o%C3%B9...;Tu+vois+une+lueur+d%27espoir." />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=1800&pause=800&color=00BFFF&center=true&vCenter=true&width=850&lines=Passionn%C3%A9+de+jeux+vid%C3%A9o+d%27action+et+de+combat;J%27adore+imaginer+des+histoires+et+des+univers;Grand+consommateur+d%27anim%C3%A9s+d%27action;Groupe+de+musique+pr%C3%A9f%C3%A9r%C3%A9+%3A+Ice+Nine+Kills;Rock+ain%27t+Dead;I+am+Atomic+%21;Nous+sommes+Shadow+Garden...;Nous+nous+dissimulons+dans+l%27obscurit%C3%A9...;Et+nous+pourchassons+les+ombres+%21;Kam%C3%A9+Ham%C3%A9+Ha+%21;Plus+Ultra+%21;Tout+va+bien+se+passer+%21;Et+vous+savez+pourquoi+%3F;Parce+que+la+cavalerie+est+l%C3%A0+%21;Je+veux+devenir+un+h%C3%A9ros+%21;Je+te+sauverai...;Peu+importe+le+nombre+de+fois...;O%C3%B9+je+devrai+mourir+%21;Personne+n%27est+parfait.;Je+ne+suis+personne...;Donc+je+suis+parfait+%21;La+magie+%3F;Je+pr%C3%A9f%C3%A8re+r%C3%A9gler+%C3%A7a+avec+mes+muscles.;Est-ce+que+vous+voulez+un+chou+%C3%A0+la+cr%C3%A8me+%3F;S%27il+arrive+malheur+%C3%A0+mes+choux+%C3%A0+la+cr%C3%A8me...;Je+ne+vous+le+pardonnerai+pas.;S%27il+n%27y+a+pas+de+h%C3%A9ros+dans+ce+monde...;Je+serai+un+h%C3%A9ros+%21%21;Les+flammes+incandescentes...;Sont+le+souffle+de+l%27%C3%A2me.;La+fum%C3%A9e+noire...;Lib%C3%A8re+les+%C3%A2mes.;Poussi%C3%A8re%2C+tu+redeviens+poussi%C3%A8re...;Et+ton+%C3%A2me+d%C3%A9livr%C3%A9e...;Retournera+dans+les+flammes+ardentes.;Latum.;Le+brouillard+finit+toujours+par+se+dissiper+devant+la+volont%C3%A9.;Combattre+avec+panache.;Dans+la+vie...;Y%27a+pas+de+grands...;Y%27a+pas+de+petits.;La+bonne+longueur+pour+les+jambes...;C%27est+quand+les+pieds+touchent+par+terre.;Je+ne+suis+ni+pour%2C+ni+contre...;Bien+au+contraire.;Si+j%27ai+l%27occasion...;J%27aimerais+mieux+mourir+de+mon+vivant+%21;La+vie+mettra+des+pierres+sur+ta+route...;%C3%80+toi+de+d%C3%A9cider+si+tu+en+feras...;Un+mur+ou+un+pont.;Les+gens+ne+sont+que+des+outils.;La+victoire+est+tout+ce+qui+compte+dans+ce+monde.;Les+m%C3%A9thodes+importent+peu.;Darling;Il+para%C3%AEt+qu%27on+appelle+ces+oiseaux+des+Pihis.;Ils+ne+poss%C3%A8dent+qu%27une+seule+aile.;M%C3%A2les+et+femelles+ne+peuvent+voler...;Qu%27en+se+serrant+l%27un+contre+l%27autre.;Le+moment+le+plus+facile...;De+sombrer+dans+le+d%C3%A9sespoir...;C%27est+le+moment+o%C3%B9+tu+vois...;Une+lueur+d%27espoir." />
 </p>
 
 <img src="MASCOTTEsf.gif" width="300" align="right">
